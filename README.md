@@ -45,10 +45,17 @@ Data was generated using Faker (Python) and loaded via psycopg2 into PostgreSQL.
 📅 Order Trends over Time
 
 📷 Visuals
-(Paste your screenshots or add image links here)
 
-Example:
+Below are sample screenshots from the Power BI dashboard:
 
+### 1. Orders and Customer Spend by Country
+![Orders by Country](https://github.com/Laysiakas/ecommerce-insights-vinted/blob/main/sc1.png)
+
+### 2. Product Performance and Revenue Trends
+![Revenue Trends](https://github.com/Laysiakas/ecommerce-insights-vinted/blob/main/sc2.png)
+
+### 3. Geographic Customer Spend Distribution
+![Geographic Distribution](https://github.com/Laysiakas/ecommerce-insights-vinted/blob/main/sc3.png)
 
 
 
