@@ -55,11 +55,11 @@ Example:
 
 📁 Project Structure
 ecommerce-dashboard/
-├── load_data_to_postgres.py
-├── schema.sql
-├── customers.csv / orders.csv / ...
-├── dashboard.pbix
-└── README.md
+load_data_to_postgres.py
+schema.sql
+customers.csv / orders.csv / ...
+dashboard.pbix
+README.md
 
 🚀 How to Run
 Install PostgreSQL & Power BI Desktop
@@ -73,4 +73,4 @@ Open Power BI and connect to PostgreSQL
 Explore or customize visuals
 
 📬 Contact
-Built by [Your Name] — feel free to connect on [LinkedIn] or check out more at [your portfolio/GitHub].
+Built by Edgaras — feel free to connect on [[LinkedIn](https://www.linkedin.com/in/edgaras-steponaitis-146452180/)]
