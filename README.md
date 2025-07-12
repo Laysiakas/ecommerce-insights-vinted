@@ -32,6 +32,7 @@ order_items.csv
 Data was generated using Faker (Python) and loaded via psycopg2 into PostgreSQL.
 
 🔍 KPIs & Insights
+
 📦 Total Revenue & Total Sales
 
 📈 Revenue by Month
@@ -48,17 +49,14 @@ Data was generated using Faker (Python) and loaded via psycopg2 into PostgreSQL.
 
 Below are sample screenshots from the Power BI dashboard:
 
-### 1. Orders and Customer Spend by Country
-![Orders by Country](https://github.com/Laysiakas/ecommerce-insights-vinted/blob/main/sc1.png)
+1. Orders and Customer Spend by Country
+![Orders by Country](https://github.com/Laysiakas/ecommerce-insights-vinted/blob/main/images/sc1.png)
 
-### 2. Product Performance and Revenue Trends
-![Revenue Trends](https://github.com/Laysiakas/ecommerce-insights-vinted/blob/main/sc2.png)
+2. Product Performance and Revenue Trends
+![Revenue Trends](https://github.com/Laysiakas/ecommerce-insights-vinted/blob/main/images/sc2.png)
 
-### 3. Geographic Customer Spend Distribution
-![Geographic Distribution](https://github.com/Laysiakas/ecommerce-insights-vinted/blob/main/sc3.png)
-
-
-
+3. Geographic Customer Spend Distribution
+![Geographic Distribution](https://github.com/Laysiakas/ecommerce-insights-vinted/blob/main/images/sc3.png)
 
 📁 Project Structure
 ecommerce-dashboard/
