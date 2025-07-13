@@ -7,7 +7,7 @@ conn = psycopg2.connect(
     port=5432,
     dbname="ecommerce",
     user="postgres",
-    password="123lopas123"  # ← Replace with your PostgreSQL password
+    password="123lopas123" 
 )
 cur = conn.cursor()
 
